@@ -41,17 +41,15 @@ const Contact = () => {
                   <Mail className="h-6 w-6 text-primary" />
                 </div>
                 <h3 className="font-semibold text-foreground mb-2">Email Us</h3>
-                <p className="text-muted-foreground">info@landii.co.ke</p>
-                <p className="text-muted-foreground">support@landii.co.ke</p>
+                <p className="text-muted-foreground">pantane254@gmail.com</p>
               </div>
 
               <div className="bg-card rounded-xl p-6 border border-border">
                 <div className="bg-primary/10 rounded-full w-12 h-12 flex items-center justify-center mb-4">
                   <Phone className="h-6 w-6 text-primary" />
                 </div>
-                <h3 className="font-semibold text-foreground mb-2">Call Us</h3>
-                <p className="text-muted-foreground">+254 700 000 000</p>
-                <p className="text-muted-foreground">+254 711 000 000</p>
+                <h3 className="font-semibold text-foreground mb-2">Call Pantane</h3>
+                <p className="text-muted-foreground">+254 744 031 2402</p>
               </div>
 
               <div className="bg-card rounded-xl p-6 border border-border">
