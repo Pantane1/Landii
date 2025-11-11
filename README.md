@@ -1,73 +1,53 @@
-# Welcome to your Lovable project
+# 🏡 Welcome to Landii  
 
-## Project info
+[![Landii](https://files.oaiusercontent.com/file_00000000b63872439ee9002bf4427074)](https://github.com/pantane1/landii)
 
-**URL**: https://lovable.dev/projects/85e4bfeb-7a3b-433f-8c15-eda8f2c735f7
+[![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/Pantane1/mtaa-my-home)  
+[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/Pantane1/mtaa-my-home/blob/main/LICENSE)  
+[![Version](https://img.shields.io/badge/version-1.0-orange)](https://panten254.github.iomtaa-my-home)  
+[![Built With](https://img.shields.io/badge/built%20with-Love%20%26%20AI-orange)](https://github.com/Pantane1)
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+### 🌍 About Landii
+**Landii** is your smart, modern companion for property management.  
+Whether you're a **landlord, tenant, or agent**, Landii makes renting, listing, and managing properties easy, clear, and stress-free.  
 
-**Use Lovable**
+💡 *Find your perfect space. Manage your property smarter. Landii makes it simple.*  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/85e4bfeb-7a3b-433f-8c15-eda8f2c735f7) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+### 🚀 Key Features
+- 🏠 List and manage rental properties  
+- 💬 Communicate easily with tenants or landlords  
+- 📅 Track payments and lease renewals  
+- 🌐 Explore verified properties around Nairobi and beyond  
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### 🧠 Vision
+To redefine property management with simplicity, beauty, and technology — made in Kenya 🇰🇪 by **Pantane**.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+### 🧰 Tech Stack
+- HTML, CSS, JavaScript  
+- AI integration for smart recommendations  
+- Firebase / Node.js backend (optional setup)  
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### 📬 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-pantane1-black?logo=github)](https://github.com/pantane1)  
+[![Email](https://img.shields.io/badge/Email-pantane254%40gmail.com-red?logo=gmail)](mailto:pantane254@gmail.com)  
+[![WhatsApp](https://img.shields.io/badge/Chat-WhatsApp-brightgreen?logo=whatsapp)](https://wa.me/254740312402?text=Hi%20Pantane%2C%20CEO%20Landii%20%E2%80%94%20got%20your%20number%20from%20the%20website%20%F0%9F%91%8B)
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+### ⚡ Inspiration
+Landii was built out of a vision to make property management simple, human, and connected.  
+> *Built by Pantane with love, logic, and a touch of Kenyan brilliance.*
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/85e4bfeb-7a3b-433f-8c15-eda8f2c735f7) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+© 2025 Pantane | Landii 🌿  
