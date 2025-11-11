@@ -49,7 +49,7 @@ const Contact = () => {
                   <Phone className="h-6 w-6 text-primary" />
                 </div>
                 <h3 className="font-semibold text-foreground mb-2">Call Pantane</h3>
-                <p className="text-muted-foreground">+254 744 031 2402</p>
+                <p className="text-muted-foreground">+254 740 312 402</p>
               </div>
 
               <div className="bg-card rounded-xl p-6 border border-border">
