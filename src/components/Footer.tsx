@@ -15,13 +15,28 @@ const Footer = () => {
               Kenya's trusted platform for rental properties. Find your next home or list your property with ease.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a 
+                href="https://www.facebook.com/profile.php?id=100095346974516" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-muted-foreground hover:text-primary transition-colors"
+              >
                 <Facebook className="h-5 w-5" />
               </a>
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a 
+                href="https://twitter.com" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-muted-foreground hover:text-primary transition-colors"
+              >
                 <Twitter className="h-5 w-5" />
               </a>
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+              <a 
+                href="https://www.instagram.com/pantan_e4/" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-muted-foreground hover:text-primary transition-colors"
+              >
                 <Instagram className="h-5 w-5" />
               </a>
             </div>
@@ -85,10 +100,18 @@ const Footer = () => {
 
         <div className="mt-12 pt-8 border-t border-border">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
-            <p className="text-muted-foreground text-sm">
-              © {new Date().getFullYear()} Landii. All rights reserved.
-            </p>
-            <div className="flex space-x-6 text-sm">
+            <div className="flex flex-col md:flex-row items-center gap-4 text-sm text-muted-foreground">
+              <p>© {new Date().getFullYear()} Landii. All rights reserved.</p>
+              <div className="flex items-center gap-4">
+                <span className="hidden md:inline">•</span>
+                <span>Version 1.0.0</span>
+                <span>•</span>
+                <span className="text-green-500">● Active</span>
+                <span>•</span>
+                <span>MIT License</span>
+              </div>
+            </div>
+            <div className="flex flex-wrap justify-center gap-4 text-sm">
               <Link to="/about" className="text-muted-foreground hover:text-primary transition-colors">
                 Privacy Policy
               </Link>
@@ -96,6 +119,11 @@ const Footer = () => {
                 Terms of Service
               </Link>
             </div>
+          </div>
+          <div className="mt-4 text-center">
+            <p className="text-xs text-muted-foreground">
+              Built with React, TypeScript, Tailwind CSS, and Vite
+            </p>
           </div>
         </div>
       </div>
