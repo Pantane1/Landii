@@ -49,5 +49,5 @@ Landii was built out of a vision to make property management simple, human, and 
 > *Built by Pantane with love, logic, and a touch of Kenyan brilliance.*
 
 ---
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Landi -you wanna see this combo in one app <a href="https://t.co/O1cv7tJlcX">pic.twitter.com/O1cv7tJlcX</a></p>&mdash; Pantane (@Pantane4) <a href="https://ibb.co/YB5Kr44Y">November 11, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[xlandii🌿](https://x.com/Pantane4/status/1988236763593052190)
 © 2025 Pantane | Landii 🌿  
