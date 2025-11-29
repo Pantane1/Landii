@@ -1,6 +1,6 @@
 # 🏡 Welcome to Landii  
 
-[![Landii](https://files.oaiusercontent.com/file_00000000b63872439ee9002bf4427074)](https://github.com/pantane1/landii)
+[![Landii](https://github.com/pantane1/landii)
 
 [![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/Pantane1/mtaa-my-home)  
 [![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/Pantane1/mtaa-my-home/blob/main/LICENSE)  
